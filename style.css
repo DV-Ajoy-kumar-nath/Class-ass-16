@@ -1,0 +1,136 @@
+
+
+
+
+/* .manediv{
+    width: 1641px;
+    margin: 26px auto;
+ } */
+ .colo{
+     color: #494747;
+     font-size: 13px;
+ }
+ .text-canter{
+    text-align: center;
+}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.text-center{
+    text-align: center;
+}
+.fixed-with{
+    width: 1100px;
+    margin: auto;
+    color: #555555;
+}
+ 
+
+
+
+
+ .header {
+    background-color: #101446;
+    padding: 12px;
+}
+.header-logo img {
+    width: 96px;
+}
+.primary-menu{}
+.primary-menu ul{
+    margin-bottom: 0;
+}
+.primary-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.primary-menu ul li a{
+    display: block;
+    color: #fff;
+    padding: 0px 25px;
+    font-size: 17px;
+    line-height: 60px;
+    text-decoration: none;
+    border: 1px solid #101446;
+}
+.primary-menu ul li a:hover{}
+
+
+/* banner */
+
+.banner{
+    background-image: url(./banner.jpg);
+    background-repeat: no-repeat;
+    /* padding: 200px 0; */
+    height: 800px;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+.banner-text h2 {
+    color: #fff;
+    margin-top: 310px;
+}
+.banner-text p{
+    color: #fff;
+    margin-top: 40px;
+}
+.banner-text h5{
+    color: #fff;
+    font-size: 15px;
+}
+h1{
+    font-size: 50px;
+}
+.font{
+    font-size: 60px;
+    color: rgb(24, 23, 23);
+}
+.us {
+    text-align: center;
+    margin: 51px 30px;
+}
+.color {
+    background-color: #F5F5F5;
+    padding: 24px;
+}
+
+.button{
+    margin-top: 40px;
+}
+
+/* meet-our-teem */
+
+.meet-our-teem{
+    background-color: #BAC1F3;
+    padding: 100px;
+}
+
+.img1{
+    width: 20%;
+	float: left;
+	padding: 25px 10px;
+	box-sizing: border-box;
+	margin-left: 12%;
+	margin-right: 1%;
+}
+
+
+
+/* about-us */
+
+.about{
+    background-color: #C2D4EA;
+    padding: 200px;
+}
+
+
+
+/* footter */
+
+.footer{
+    background-color: #0062D3;
+}
